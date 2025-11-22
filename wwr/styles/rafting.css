@@ -9,7 +9,7 @@
 
 header {
     background-color: var(--primary-color);
-    color: var(--accent2-color);
+    color: #b8860b
 }
 
 * {
@@ -33,7 +33,7 @@ footer {
 h1,
 h2 {
     font-family: var(--heading-font);
-    color: var(--primary-color);
+    color: #006400;
 }
 
 nav,
@@ -70,7 +70,7 @@ h1 {
     text-align: center;
     opacity: 0.7;
     background-color: var(--secondary-color);
-    color: #fff;
+    color: #b8860b;
 }
 
 .hero article {
