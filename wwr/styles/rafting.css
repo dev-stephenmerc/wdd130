@@ -4,7 +4,7 @@
     --accent1-color: #483d8b; /* dark slate blue*/
     --accent2-color: #e9c466; /* light golden yellow */
     --heading-font: "Times New Roman", "Georgia", "Serif"
-    --body-font:Arial, Helvetica, sans-serif
+    --body-font:Arial, Helvetica, sans-serif; 
 }
 
 header {
@@ -73,7 +73,7 @@ h1 {
     position: absolute;
     top: 50px;
     left: 50px;
-    background-color: rgba (255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
     width: 60px;
     border-radius: 8px;
