@@ -9,7 +9,7 @@
 
 header {
     background-color: var(--primary-color);
-    color: #208020;
+    color: #ffffff;
 }
 
 * {
@@ -37,7 +37,7 @@ h1 {
 
 h2{
     font-family: var(--heading-font);
-    color: #228b22;
+    color: #006400;
 }
 
 nav,
