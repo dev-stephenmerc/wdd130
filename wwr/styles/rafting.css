@@ -33,7 +33,7 @@ footer {
 h1,
 h2 {
     font-family: var(--heading-font);
-    color: rgb (2
+    color: var(--primary-color)
 }
 
 nav,
@@ -70,7 +70,7 @@ h1 {
     text-align: center;
     opacity: 0.7;
     background-color: var(--secondary-color);
-    color: #b8860b;
+    color: #000000;
 }
 
 .hero article {
