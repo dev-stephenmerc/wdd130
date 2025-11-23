@@ -9,7 +9,7 @@
 
 header {
     background-color: var(--primary-color);
-    color: white;
+    color: #208020;
 }
 
 * {
@@ -30,10 +30,14 @@ footer {
     margin: 0 auto;
 }
 
-h1,
-h2 {
+h1 {
     font-family: var(--heading-font);
-    color: var(--primary-color)
+    color: var(--primary-color);
+}
+
+h2{
+    font-family: var(--heading-font);
+    color: #228b22;
 }
 
 nav,
