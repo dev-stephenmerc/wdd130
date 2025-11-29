@@ -22,7 +22,7 @@ nav a {
     color: #fff;
     text-align: center;
     padding: 1rem;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 p {
@@ -44,6 +44,7 @@ p {
     border-radius: 4px;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    
 }
 
 #devtools-btn:hover {
