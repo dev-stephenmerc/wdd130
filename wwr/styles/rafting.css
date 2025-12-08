@@ -204,7 +204,7 @@ footer p {
 }
 .contact-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns:1fr 1fr;
     gap: 30px;
     padding: 20px;
     max-width: 1200px;
@@ -219,7 +219,7 @@ footer p {
 }
 .contact-form form {
     display: grid;
-    grid-template-columns: 130px 1fr;
+    grid-template-columns:1fr;
     gap: 10px 15px;
     padding: 10px;
     border: 1px solid #ccc;
@@ -255,19 +255,13 @@ footer p {
 } 
 .checkbox-and-button[type="submit"] {
     background-color: #337ab7;
-    color: white;
+    color: #ffffff;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
     font-size: 1.1em;
     cursor: pointer;
     margin-top: 10px;
-}
-.contact-grid {
-    grid-template-columns: 1fr;
-}
-.contact-form form {
-    grid-template-columns: 1fr;
 }
 .contact-form label,
 .contact-form input,
