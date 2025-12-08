@@ -317,3 +317,6 @@ footer p {
     font-size: 0.9em;
     color: #333;
 }
+.map-frame {
+    border: 0;
+}
